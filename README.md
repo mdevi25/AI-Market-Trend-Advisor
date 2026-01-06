@@ -3,11 +3,12 @@
 
 **Strategic Intelligence System with Bias & Fairness Auditing**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-market-trend-advisor.streamlit.app/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-4285f4)](https://cloud.google.com/vertex-ai)
-[![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Bias%20Audited-green)](https://ai.google/responsibilities/responsible-ai-practices/)
+#[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-market-trend-advisor.streamlit.app/)
+#[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Vertex%20AI-4285f4)](https://cloud.google.com/vertex-ai)
+#[![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Bias%20Audited-green)](https://ai.google/responsibilities/responsible-ai-practices/)
 
 ## 🚀 **Features**
+https://madhudevi25-ai-market-trend-advisor-app-xhvfgf.streamlit.app/
 
 ### **Core GenAI Framework:**
 - 🔧 **Multi-source RAG**: BigQuery + External Market Intelligence
